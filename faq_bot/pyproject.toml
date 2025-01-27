@@ -11,6 +11,7 @@ langchain = "^0.3.15"
 langsmith = "^0.3.1"
 langchain-openai = "^0.3.2"
 pip = "^24.3.1"
+pillow = "^11.1.0"
 
 [build-system]
 requires = ["poetry-core"]
